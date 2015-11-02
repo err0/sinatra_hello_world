@@ -1,5 +1,5 @@
 
 # simple install/deploy script
 
-$ run bundler
+# run bundler
 system %w[bundle install --deployment]
